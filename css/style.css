@@ -4,13 +4,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
 </style>
 
-.carousel-item>img{
-    position: absolute;
-  top: 0;
-  left: 0;
-  min-width: 100%;
-  height: 200px;
-}
+
+
 body{
     background: whitesmoke;
     margin: 0;
