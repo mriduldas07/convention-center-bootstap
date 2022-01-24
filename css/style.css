@@ -8,3 +8,11 @@
     padding: 10px 40px;
     border-radius: 5px;
 }
+.hot-card{
+    background: #3F87F5;
+    border-radius: 30px;
+    box-shadow: 10px 10px 30px;
+}
+.hot-card a{
+    border-radius: 45px;
+}
