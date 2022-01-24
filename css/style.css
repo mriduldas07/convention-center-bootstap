@@ -1,4 +1,8 @@
 
+body{
+    background: whitesmoke;
+    margin: 0;
+}
 .book-now-button{
     text-decoration: none;
     color: #3F87F5;
@@ -19,4 +23,9 @@
 }
 .hot-card a{
     border-radius: 45px;
+}
+.read-more-button{
+    text-decoration: none;
+    font-weight: 600;
+    color:brown;
 }
