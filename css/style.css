@@ -36,3 +36,10 @@ body{
     font-weight: 600;
     color:brown;
 }
+/* media quaries for mobile devices */
+
+@media only screen and (max-width:688px) {
+    .carousel-item img{
+        height: 400px;
+    }
+}
